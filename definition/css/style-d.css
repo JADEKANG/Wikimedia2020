@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css?family=Bangers")
+
+html, body{
+  height: 100%;
+  width: 100%;
+  font-family: "Bangers";
+}
+.logoside{
+  font-size: 25px;
+  color: white;
+}
+
+<!--.nav-link:hover{color: red;}-->
+
+.navbar{
+  font-family: "Bangers";
+  padding:.8rem;
+}
+.navbar-nav li{
+  padding-right: 20px;
+}
+.nav-link{
+  font-size:1.1rem ;
+}
+#sidebar-wrapper{
+  font-family: "Bangers";
+  color: white;
+}
+.sidebar-heading{
+  color:black;
+}
+.mt-4 {
+  font-family: 'Tangerine', serif;
+  color: #006699;
+}
+#Def1,#Def2,#Def3{
+  font-family: "Gugi";
+}
+.bold{
+  color: #006699;
+}
+.fluent{
+  color: #006699;
+}
+#Def3 li{
+  color: 	 #e6b800;
+}
+.impo{
+  color:red;
+}
+footer{
+  background-color: #3f3f3f;
+  color: #d5d5d5;
+  padding-top: 2rem;
+}
+hr.light{
+  border-top: 1px solid #d5d5d5;
+  width: 75%;
+  margin-top: .8rem;
+  margin-bottom: 1rem;
+}
+
+footer a{
+  color: #d5d5d5;
+}
+hr.light-100{
+  border-top: 1px solid #d5d5d5;
+  width: 100%;
+  margin-top: .8rem;
+  margin-bottom: 1rem;
+}
