@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css?family=Bangers")
+
+
+html, body{
+  height: 100%;
+  width: 100%;
+  font-family: "Bangers";
+}
+.logoside{
+  font-size: 25px;
+  color: white;
+}
+
+.navbar{
+  font-family: "Bangers";
+  padding:.8rem;
+}
+.navbar-nav li{
+  padding-right: 20px;
+}
+.nav-link{
+  font-size:1.1rem ;
+}
+#sidebar-wrapper{
+  font-family: "Bangers";
+  color: white;
+}
+.sidebar-heading{
+  color:black;
+}
+.mt-4 {
+  font-family: "Bangers";
+  color: #006699;
+}
+#Def1{
+  background-image: url(../../Image/bb.gif);
+  font-family: "Gugi";
+  text-shadow:2px 2px black;
+}
+.compare{
+  display: block;
+margin-left: auto;
+margin-right: 20px;
+width: 50%;
+width: 250px;
+height: 125px;
+}
+#novel,#movie{
+  float: left;
+  margin-right: 20px;
+  width: 350px;
+  height: 175px;"
+}
+#Def2{
+  color: white;
+  font-family: "Gugi";
+  background-image: url(../../Image/music.gif);
+  text-shadow:2px 2px black;
+}
+.refer1 h3{
+  font-family: "Bangers";
+  color: white;
+}
+.jumbotron{
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+#Def3{
+  background-image: url(../../Image/back.gif);
+  text-shadow:2px 2px black;
+}
+.ref{
+  font-size: 30px;;
+  font-family: "Bangers";
+  color: #006699;
+}
+.info{
+  font-family: "Gugi";
+  color: white;
+}
+.tm{
+  color:#ffcc00;
+}
+footer{
+  margin-top: 10px;
+  background-color: #3f3f3f;
+  color: #d5d5d5;
+  padding-top: 2rem;
+}
+hr.light{
+  border-top: 1px solid #d5d5d5;
+  width: 75%;
+  margin-top: .8rem;
+  margin-bottom: 1rem;
+}
+
+footer a{
+  color: #d5d5d5;
+}
+hr.light-100{
+  border-top: 1px solid #d5d5d5;
+  width: 100%;
+  margin-top: .8rem;
+  margin-bottom: 1rem;
+}
+.end{
+  font-family: "Bangers";
+}
